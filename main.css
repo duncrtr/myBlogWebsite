@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: black}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: whitesmoke;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+q{
+    font-style: italic;
+}
+
+.container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+   width: 80vw;
+   padding-left: 2vh;
+   padding-right: 2vh;
+   background-color: #b1b9d6;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh;
+    height: 10vh;
+    width: 80vw;
+    background-color: lightslategray;
+}
+.logo{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    width: 30vw;
+}
+.logo-image{
+    height: 10vh;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20vw;
+}
+
+.middle{
+    display: flex;
+    align-content: space-between;
+    justify-content: center;
+    width: 70vw;
+    padding: 2vh
+}
+
+.title-pic{
+    width: 80%;
+}
+
+.feature-bar{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    padding: 2vh
+}
+.feature-bar-title{
+    font-size: 150%;
+    font-weight: bold;
+    margin-bottom: 1vh;
+}
+.feature-list{
+    display: flex;
+    flex-direction: column;
+    height: 15vh;
+    justify-content: space-between;
+}
+
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    padding: 2vh;
+}
+
+.about-me{
+    padding: 2vh;
+    width: 60vw;
+}
+
+.external-links{
+    padding: 2vh;
+}
+
+.first-paragraph{
+    display: flex;
+    padding: 2vh;
+    justify-content: space-between;
+}
+
+
+.second-paragraph{
+    display: flex;
+    padding: 2vh;
+    justify-content: space-between;
+}
+
+.paragraph-picture{
+    width: 50%;
+}
+
+.paragraph-content{
+    width: 80%;
+    padding: 2vh;
+}
+
+.microwave-pic{
+    width: 100%;
+}
+
+.potato-pic{
+    width: 100%;
+}
