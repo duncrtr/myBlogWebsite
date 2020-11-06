@@ -99,7 +99,7 @@ q{
     width: 60vw;
 }
 
-.external-links{
+.quotes{
     padding: 2vh;
 }
 
@@ -130,5 +130,21 @@ q{
 }
 
 .potato-pic{
+    width: 100%;
+}
+
+.boat-pic{
+    width: 100%;
+}
+
+.woman-pic{
+    width: 100%;
+}
+
+.money-pic{
+    width: 100%;
+}
+
+.rationing-pic{
     width: 100%;
 }
